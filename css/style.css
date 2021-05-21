@@ -1,0 +1,51 @@
+header {
+    text-align: center;
+    padding: 7px;
+    margin: 10px;
+    font-size: 26px;
+    font-family: cursive;
+    color: black;
+    background: #2F6E9B;
+    margin: -25px 0 -25px 0;
+}
+
+body{
+    text-align: center;
+    background-image: url(https://i.imgur.com/5VyvRsK.png);
+    /* background-color: black; */
+    color: white;
+}
+
+h3, h4 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 22px;
+    color: goldenrod;
+    background-color: black;
+}
+
+p {
+    font-size: 18px;
+    font-family: cursive;
+    
+}
+ 
+input-type {
+    display: flex;
+    align-content:center; 
+}
+
+button {
+    
+     display: float;
+     justify-content: center;
+     background-color: crimson;
+     color: white;
+ }
+
+ footer {
+     font-size: 20px;
+     font-family: cursive;
+     color: lightsalmon;
+     background-color: black;
+ }
